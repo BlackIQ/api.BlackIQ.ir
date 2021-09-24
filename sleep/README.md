@@ -16,4 +16,4 @@
 
 </div>
 
-[API URL](https://api.blackiq.ir)
+[API URL](https://api.blackiq.ir/sleep/main.json)

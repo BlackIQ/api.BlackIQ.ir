@@ -12,4 +12,4 @@ First, I wanted to learn **API** and once create an **API**. Well, there are man
 
 Examples will be added and if you look this **API**, you will get what is it about.
 
-[API URL](https://api.blackiq.ir)
+[API URL](https://api.blackiq.ir/amir/main.json)
