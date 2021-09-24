@@ -1,9 +1,7 @@
 {
     "title": "Sleeping Data",
     "nights": [
-        {"night": 1, "date": "Sep 22 2021", "amirmahdi": 450, "amirhossein": 420},
-        {"night": 2, "date": "Sep 23 2021", "amirmahdi": 530, "amirhossein": 450},
-        {"night": 5, "date": "Sep 24 2021", "amirmahdi": 600, "amirhossein": 525}
+        {"night": 1, "date": "Sep 22 2021", "amirmahdi": 450, "amirhossein": 420}
     ],
     "last-update": "Sep 24 2021"
 }
