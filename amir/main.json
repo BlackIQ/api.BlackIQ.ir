@@ -33,6 +33,10 @@
         "telegram": {
             "main": "https://t.me/BlackIQ",
             "second": "https://t.me/Neotrinost_Contact"
+        },
+        "whatsapp": {
+            "main": "+989014784362",
+            "second": "+989220513088"
         }
     }
 }
