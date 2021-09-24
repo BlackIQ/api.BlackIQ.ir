@@ -9,5 +9,11 @@
         "gregorian-date": "Nov, 20, 2003",
         "solar-date": "Aban, 29, 1382",
         "lunar-date": "Ramazan, 25, 1424"
+    },
+    "contact": {
+        "phones": {
+            "main": "+989014784362",
+            "extra": "+989220513088"
+        }
     }
 }
