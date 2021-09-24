@@ -20,5 +20,13 @@
             "domain": "me@blackiq.ir",
             "gmail": "amirhosseinmohammadi2003@gmail.com"
         }
+    },
+    "social": {
+        "twitter": "https://twitter.com/GNU_Amir",
+        "instagram": {
+            "main": "https://instagram.com/gnu_amir",
+            "second": "https://instagram.com/gnu_blackiq"
+        },
+        "facebook": "https://facebook.com/LeonardoLarson"
     }
 }
