@@ -14,6 +14,11 @@
         "phones": {
             "main": "+989014784362",
             "extra": "+989220513088"
+        },
+        "emails": {
+            "yahoo": "amirhosseinmohammadi1380@yahoo.com",
+            "domain": "me@blackiq.ir",
+            "gmail": "amirhosseinmohammadi2003@gmail.com"
         }
     }
 }
