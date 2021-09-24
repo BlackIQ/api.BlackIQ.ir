@@ -42,5 +42,10 @@
     "blog": {
         "medium": "https://gnu-amir.medium.com",
         "virgool": "https://virgool.io/@BlackIQ"
+    },
+    "pro-nets": {
+        "github": "https://github.com/BlackIQ",
+        "linkedin": "https://www.linkedin.com/in/amirhosseinmohammadi/",
+        "quora": ""
     }
 }
