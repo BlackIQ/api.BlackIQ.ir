@@ -47,5 +47,27 @@
         "github": "https://github.com/BlackIQ",
         "linkedin": "https://www.linkedin.com/in/amirhosseinmohammadi/",
         "quora": ""
+    },
+    "companies": {
+        "neotrinost": {
+            "role": "ceo | founder",
+            "site": "https://neotrinost.ir",
+            "github": "https://github.com/Neotrinost"
+        },
+        "novelvo": {
+            "role": "ceo | founder",
+            "site": "https://novelvo.ir",
+            "github": "https://github.com/novelvo"
+        },
+        "pyabr": {
+            "role": "cto | cco | software developer",
+            "site": "https://pyabr.ir",
+            "github": "https://github.com/pyabr"
+        },
+        "jobnic": {
+            "role": "ceo | founder",
+            "site": "https://jobnic.net",
+            "github": "none"
+        }
     }
 }
