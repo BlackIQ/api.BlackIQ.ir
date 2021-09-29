@@ -10,3 +10,5 @@ Specific APIs or required APIs hosted on BlackIQ.ir
 ### Docs
 
 All of **docs** will be added too.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlackIQ/api.BlackIQ.ir/blob/main/src/sleep.ipynb)
