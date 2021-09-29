@@ -6,7 +6,9 @@
         {"night": 5, "date": "Sep 24 2021", "amirmahdi": 600, "amirhossein": 525},
         {"night": 6, "date": "Sep 25 2021", "amirmahdi": 420, "amirhossein": 224},
         {"night": 7, "date": "Sep 26 2021", "amirmahdi": 470, "amirhossein": 365},
-        {"night": 8, "date": "Sep 27 2021", "amirmahdi": 450, "amirhossein": 200}
+        {"night": 8, "date": "Sep 27 2021", "amirmahdi": 450, "amirhossein": 200},
+        {"night": 9, "date": "Sep 28 2021", "amirmahdi": 450, "amirhossein": 510},
+        {"night": 10, "date": "Sep 29 2021", "amirmahdi": 420, "amirhossein": 330}
     ],
-    "last-update": "Sep 27 2021"
+    "last-update": "Sep 29 2021"
 }
